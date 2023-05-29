@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a4c43d3.css",
+    "main.js": "/static/js/main.4a1b013b.js",
+    "static/media/background.png": "/static/media/background.a0c4bdd961442f1bc8b1.png",
+    "static/media/star-wars.png": "/static/media/star-wars.c15a53e0d7b627afd60c.png",
+    "static/media/disney.png": "/static/media/disney.c775a1e443392ed75ea6.png",
+    "static/media/national-geographic.png": "/static/media/national-geographic.9a9a890213779f930870.png",
+    "static/media/logo.svg": "/static/media/logo.fd83467e9ceb624b88e73fa0de1c701d.svg",
+    "index.html": "/index.html",
+    "main.2a4c43d3.css.map": "/static/css/main.2a4c43d3.css.map",
+    "main.4a1b013b.js.map": "/static/js/main.4a1b013b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a4c43d3.css",
+    "static/js/main.4a1b013b.js"
+  ]
+}
